@@ -16,8 +16,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -38,8 +36,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -49,6 +45,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.peckservers.com:9000/announce
 
@@ -77,8 +75,6 @@ https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker.x2k.ru:443/announce
-
-https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -129,6 +125,8 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aegir.sexy:6969/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -257,6 +255,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
